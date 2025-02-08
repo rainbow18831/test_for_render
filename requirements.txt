@@ -1,5 +1,3 @@
-os
-json
 Flask
 gspread
 oauth2client
